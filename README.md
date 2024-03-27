@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikitant100
-- 👀 I’m interested in HTML and JS
+- 👀 I’m interested in HTML CSS and JS
 - 🌱 I’m currently learning Frontend developer!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
